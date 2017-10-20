@@ -1,0 +1,25 @@
+01）工作	
+
+	m-html 	= HTML
+	m-css  	= CSS
+	m-js   	= JS
+	m-browser = 浏览器
+
+
+
+
+02）写作
+
+03）设计
+
+04）语言
+
+05）生活
+
+06）知识
+
+07）娱乐
+
+	m-foreignseries -- 《美女上错身》 —— drop dead diva
+
+08）阅读
